@@ -102,7 +102,7 @@ Tools:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseinirtr&show_icons=true&locale=en&layout=compact" alt="hosseinirtr" /></p>
 
-<style>
+<!-- <style>
     img{
         margin: 0 10px 0 10px
     }
@@ -110,8 +110,8 @@ Tools:
         background-color: #fff; /* Blue */
         border-radius: 5px
     }
-</style>
+</style> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinirtr&show_icons=true&locale=en" alt="hosseinirtr" /></p>
-<script>importCSS('./style/style.css')</script>
+<!-- <script>importCSS('./style/style.css')</script> -->
 </body>
 </html>
