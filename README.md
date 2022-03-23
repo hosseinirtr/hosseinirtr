@@ -93,8 +93,6 @@ Tools:
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseinirtr&show_icons=true&locale=en&layout=compact" alt="hosseinirtr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinirtr&show_icons=true&locale=en" alt="hosseinirtr" /></p>
 <style>
     img{
         margin: 0 10px 0 10px
@@ -104,3 +102,5 @@ Tools:
         border-radius: 5px
     }
 </style>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinirtr&show_icons=true&locale=en" alt="hosseinirtr" /></p>
+
