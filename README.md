@@ -1,4 +1,11 @@
-<!--
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>(link.js)</script>
+		<style>(critical css)</style>
+	</head>
+	<body>
+    <!--
 **hosseinirtr/hosseinirtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- <link  -->
 <h1 align="center">Hi there 👋, I'm Hossein</h1>
 <h2 align="center">A passionate Frontend Developer</h2>
 
@@ -93,6 +101,7 @@ Tools:
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseinirtr&show_icons=true&locale=en&layout=compact" alt="hosseinirtr" /></p>
+
 <style>
     img{
         margin: 0 10px 0 10px
@@ -103,4 +112,6 @@ Tools:
     }
 </style>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinirtr&show_icons=true&locale=en" alt="hosseinirtr" /></p>
-
+<script>importCSS('./style/style.css')</script>
+</body>
+</html>
