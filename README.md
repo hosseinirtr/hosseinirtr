@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<script>(link.js)</script>
-		<style>(critical css)</style>
+		<!-- <script>(link.js)</script>
+		<style>(critical css)</style> -->
 	</head>
 	<body>
     <!--
