@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/seyed-hossein-hosseini-rtr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seyed-hossein-hosseini-rtr/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/seyed-hossein-hosseini-rtr/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/seyed-hossein-hosseini-rtr/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/h_hosseini_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/h_hosseini_me" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
 <br/>
+<h2 align="left">Languages and Tools:</h2>
 <h3 align="left">
 Languages:
 </h3>
@@ -65,9 +65,7 @@ Front End:
 <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img class="fff" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img class="fff" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-
 </p>
-<br/>
 <h3 align="left">
 Back End:
 </h3>
