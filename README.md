@@ -5,43 +5,23 @@
 		<style>(critical css)</style> -->
 	</head>
 	<body>
-    <!--
-**hosseinirtr/hosseinirtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <link  -->
 <h1 align="center">Hi there 👋, I'm Hossein</h1>
-<h2 align="center">A passionate Frontend Developer</h2>
+<h2 align="center">A passionate Software Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinirtr&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinirtr" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosseinirtr" alt="hosseinirtr" /></a> </p>
- -->
-
-- 🌱 I’m currently learning **React js , Node js , Django , Gatsby and others**
-
-<!-- - 🤝 I’m looking for help with [Hober Chat](https://github.com/hosseinirtr/HoberChat) -->
-
+- 🌱 I’m currently learning **CS , React js , Django , AI/ML and others**
+- 🤝 I’m looking for help with [Hober Chat](https://github.com/hosseinirtr/HoberChat)
 - 👨‍💻 Someone of my projects are available at [https://hosseinhosseini.net/#project-1](https://hosseinhosseini.net/#project-1)
-
 - 📝 I regularly write articles on [https://blog.hosseinhosseini.net/](https://blog.hosseinhosseini.net/)
-
 - 💬 Ask me about **React js , React Native , Problem Solving**
-
 - 📫 How to reach me **h.hosseini.me@gmail.com**
-
 - 📄 Know about my experiences [https://hosseinhosseini.net/](https://hosseinhosseini.net/)
+- ⚡ Fun fact: My colleague says 
+> Hossein is summer, hot and fun :)
 
+		
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/seyed-hossein-hosseini-rtr/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/seyed-hossein-hosseini-rtr/" height="30" width="40" /></a>
@@ -101,17 +81,6 @@ Tools:
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseinirtr&show_icons=true&locale=en&layout=compact" alt="hosseinirtr" /></p>
-
-<!-- <style>
-    img{
-        margin: 0 10px 0 10px
-    }
-    .fff{
-        background-color: #fff; /* Blue */
-        border-radius: 5px
-    }
-</style> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinirtr&show_icons=true&locale=en" alt="hosseinirtr" /></p>
-<!-- <script>importCSS('./style/style.css')</script> -->
 </body>
 </html>
