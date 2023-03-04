@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinirtr&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinirtr" /> </p>
 
-- 🌱 I’m currently learning **CS , React js , Django , AI/ML and others**
+- 🌱 I’m currently learning **Computer Science , React js , Django , AI/ML and others**
 - 🤝 I’m looking for help with [Hober Chat](https://github.com/hosseinirtr/HoberChat)
 - 👨‍💻 Someone of my projects are available at [https://hosseinhosseini.net/#project-1](https://hosseinhosseini.net/#project-1)
 - 📝 I regularly write articles on [https://blog.hosseinhosseini.net/](https://blog.hosseinhosseini.net/)
