@@ -17,7 +17,7 @@
 - 📝 I regularly write articles on [My Linkedin](https://www.linkedin.com/in/seyed-hossein-hosseini-rtr/)
 - 💬 Ask me about **React js , React Native , Problem Solving**
 - 📫 How to reach me **h.hosseini.me@gmail.com**
-- 📄 Know about [my experiences]((http://hosseinhosseini.net/#experience))
+- 📄 Know about [my experiences](http://hosseinhosseini.net/#experience)
 - ⚡ Fun fact: My colleague says 
 > Hossein is summer, hot and fun :)
 
