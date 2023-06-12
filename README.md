@@ -11,13 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinirtr&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinirtr" /> </p>
 
-- 🌱 I’m currently learning **Computer Science , React js , Django , AI/ML and others**
-- 🤝 I’m looking for help with [Hober Chat](https://github.com/hosseinirtr/HoberChat)
-- 👨‍💻 Someone of my projects are available at [https://hosseinhosseini.net/#project-1](https://hosseinhosseini.net/#project-1)
-- 📝 I regularly write articles on [https://blog.hosseinhosseini.net/](https://blog.hosseinhosseini.net/)
+- 🌱 I’m currently learning **Computer Science , React js , Django , AI/ML and etc**
+- 🤝 I’m looking for help with [HoberChat](https://github.com/hosseinirtr/hober-chat-mobile)
+- 👨‍💻 Someone of my projects are available at [My Portfolio](https://hosseinhosseini.net/#project-1)
+- 📝 I regularly write articles on [My Linkedin](https://www.linkedin.com/in/seyed-hossein-hosseini-rtr/)
 - 💬 Ask me about **React js , React Native , Problem Solving**
 - 📫 How to reach me **h.hosseini.me@gmail.com**
-- 📄 Know about my experiences [https://hosseinhosseini.net/](https://hosseinhosseini.net/)
+- 📄 Know about [my experiences]((http://hosseinhosseini.net/#experience))
 - ⚡ Fun fact: My colleague says 
 > Hossein is summer, hot and fun :)
 
