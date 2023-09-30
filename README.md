@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Computer Science , React js , Django , AI/ML and etc**
 - 🤝 I’m looking for help with [HoberChat](https://github.com/hosseinirtr/hober-chat-mobile)
-- 👨‍💻 Someone of my projects are available at [My Portfolio](https://hosseinhosseini.net/#project-1)
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://hosseinhosseini.net/#project-1)
 - 📝 I regularly write articles on [My Linkedin](https://www.linkedin.com/in/seyed-hossein-hosseini-rtr/)
 - 💬 Ask me about **React js , React Native , Problem Solving**
 - 📫 How to reach me **h.hosseini.me@gmail.com**
